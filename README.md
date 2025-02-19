@@ -1,6 +1,6 @@
 # Tata Steel Machine Failure Prediction - Exploratory Data Analysis (EDA)
 
-[Tata Steel](https://github.com/akashmailar/Tata-Steel-Machine-Failure-Prediction/blob/main/tata_steel.jpeg)
+![Tata Steel](https://github.com/akashmailar/Tata-Steel-Machine-Failure-Prediction/blob/main/tata_steel.jpeg)
 
 ## Project Overview
 
