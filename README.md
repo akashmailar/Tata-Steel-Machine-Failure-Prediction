@@ -1,5 +1,7 @@
 # Tata Steel Machine Failure Prediction - Exploratory Data Analysis (EDA)
 
+[Tata Steel](https://github.com/akashmailar/Tata-Steel-Machine-Failure-Prediction/blob/main/tata_steel.jpeg)
+
 ## Project Overview
 
 This project focuses on predicting machine failures in **Tata Steel**'s manufacturing operations using **Exploratory Data Analysis (EDA)**. The dataset contains **136,429 rows** and **14 columns**, providing valuable insights into the operational conditions of machines. The goal is to identify key factors contributing to machine failures, enabling early detection and minimizing downtime, improving safety, and reducing maintenance costs.
