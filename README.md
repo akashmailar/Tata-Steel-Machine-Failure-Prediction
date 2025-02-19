@@ -104,7 +104,7 @@ You can find the complete code and analysis in the GitHub repository:
 
 How to Use This Repository
 
-1.Clone the Repository:
+1. Clone the Repository:
 ```
 git clone https://github.com/akashmailar/Tata-Steel-Machine-Failure-Prediction.git
 ```
