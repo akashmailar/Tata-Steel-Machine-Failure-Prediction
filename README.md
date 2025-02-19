@@ -98,4 +98,13 @@ The EDA highlighted the importance of continuous monitoring and predictive analy
 
 ### GitHub Repository
 You can find the complete code and analysis in the GitHub repository:
+
 [GitHub Repository](https://github.com/akashmailar/Tata-Steel-Machine-Failure-Prediction/)
+
+How to Use This Repository
+
+1.Clone the Repository:
+
+```
+git clone https://github.com/akashmailar/Tata-Steel-Machine-Failure-Prediction.git
+```
