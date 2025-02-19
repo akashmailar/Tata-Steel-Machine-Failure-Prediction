@@ -105,12 +105,12 @@ You can find the complete code and analysis in the GitHub repository:
 How to Use This Repository
 
 1. Clone the Repository:
-```
+      ```
       git clone https://github.com/akashmailar/Tata-Steel-Machine-Failure-Prediction.git
-```
+      ```
 
 2. Install Dependencies:
    Ensure you have the necessary Python libraries installed:
-```
+      ```
       pip install pandas numpy matplotlib seaborn
-```
+      ```
