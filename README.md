@@ -110,6 +110,7 @@ How to Use This Repository
       ```
 
 2. **Install Dependencies**:
+   
    Ensure you have the necessary Python libraries installed:
       ```
       pip install pandas numpy matplotlib seaborn
@@ -119,6 +120,25 @@ How to Use This Repository
       pip install -r requirements.txt
       ```
 
-3. **Run the Jupyter Notebook**:
+4. **Run the Jupyter Notebook**:
    
    Open the Jupyter Notebook (`Sample_EDA_Submission_Template.ipynb`) to explore the EDA process and analysis.
+
+
+### Contributing
+
+This is an individual project, but feedback and suggestions are welcome. Feel free to open an issue or submit a pull request.
+
+
+### License
+
+This project is licensed under the MIT License.
+
+
+----
+
+**Note**: This project is part of an exploratory data analysis effort to predict machine failures in Tata Steel's manufacturing operations. The insights gained will serve as the foundation for further model development and help guide Tata Steel in enhancing its machine maintenance strategies.
+
+----
+
+Thank You!
