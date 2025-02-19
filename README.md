@@ -104,19 +104,21 @@ You can find the complete code and analysis in the GitHub repository:
 
 How to Use This Repository
 
-1. Clone the Repository:
+1. **Clone the Repository**:
       ```
       git clone https://github.com/akashmailar/Tata-Steel-Machine-Failure-Prediction.git
       ```
 
-2. Install Dependencies:
+2. **Install Dependencies**:
    Ensure you have the necessary Python libraries installed:
       ```
       pip install pandas numpy matplotlib seaborn
       ```
 
-            'or'
-
       ```
       pip install -r requirements.txt
       ```
+
+3. **Run the Jupyter Notebook**:
+   
+   Open the Jupyter Notebook (`Sample_EDA_Submission_Template.ipynb`) to explore the EDA process and analysis.
