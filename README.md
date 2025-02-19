@@ -114,3 +114,9 @@ How to Use This Repository
       ```
       pip install pandas numpy matplotlib seaborn
       ```
+
+            or
+
+      ```
+      pip install -r requirements.txt
+      ```
