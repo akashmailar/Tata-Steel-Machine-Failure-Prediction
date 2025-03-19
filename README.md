@@ -3,12 +3,13 @@
 ![Tata Steel](https://github.com/akashmailar/Tata-Steel-Machine-Failure-Prediction/blob/main/tata_steel.jpeg)
 
 ## 📌 Project Overview
-
+#
 This project focuses on predicting machine failures in **Tata Steel**'s manufacturing operations using **Exploratory Data Analysis (EDA)**. The dataset contains **136,429 rows** and **14 columns**, providing valuable insights into the operational conditions of machines. The goal is to identify key factors contributing to machine failures, enabling early detection and minimizing downtime, improving safety, and reducing maintenance costs.
 
+---
 
 ### 📂 Dataset Overview
-
+#
 The dataset includes the following columns:
 
 - **Product ID** (String) – Unique identifier for each machine instance.
@@ -26,9 +27,10 @@ The dataset includes the following columns:
 - **RNF (Random Failure)** – Unclassified random failures.
 - **id (Integer)** - Row numbering.
 
+---
 
 ### 📊 Key Insights from EDA
-
+#
 1. **Distribution of Machine Failures**: The dataset shows a significant imbalance between failure and non-failure instances, with the majority of machines not failing. This imbalance requires specialized techniques like resampling or class weighting during modeling.
 
 2. **Correlation Analysis**: Strong correlations were observed between some features, such as process temperature and air temperature. However, certain indices like TWF and RNF showed weak correlations with machine failure status.
@@ -41,9 +43,10 @@ The dataset includes the following columns:
 
 6. **Time-Based Analysis**: Although there is no direct time feature, tool wear data suggests temporal trends, with higher tool wear correlating with higher failure rates.
 
+---
 
 ### 🎯 Business Objectives
-
+#
 The primary business objectives of this project are:
 
 1. **Reduce Unplanned Downtime**: Predict machine failures before they occur to enable proactive maintenance scheduling.
@@ -58,9 +61,10 @@ The primary business objectives of this project are:
 
 6. **Long-Term Cost Savings**: Extend the lifespan of machinery, prevent major breakdowns, and reduce downtime-related losses.
 
+---
 
 ### 🛠 Data Preprocessing and Cleaning
-
+#
 Before analysis, the dataset underwent several preprocessing steps:
 
 - **Handling Missing Values**: The dataset was inspected for missing values, and imputation methods were used where necessary.
@@ -69,9 +73,10 @@ Before analysis, the dataset underwent several preprocessing steps:
 
 - **Outliers Detection**: Statistical methods like IQR (Interquartile Range) and Z-scores were used to detect and handle outliers.
 
+---
 
 ### 📌 Exploratory Data Analysis (EDA)
-
+#
 The EDA process involved:
 
 1. **Distribution Analysis**: Examining the distribution of the target variable, "Machine failure."
@@ -86,9 +91,10 @@ The EDA process involved:
 
 6. **Time-Based Analysis**: Analyzing tool wear data to identify temporal trends.
 
+---
 
 ### 📊 Insights and Conclusions
-
+#
 The EDA highlighted the importance of continuous monitoring and predictive analytics in industrial machinery. Key findings include:
 
 - **Predictive Features**: Tool wear, rotational speed, torque, and process temperature were found to be highly predictive of machine failure.
@@ -97,8 +103,10 @@ The EDA highlighted the importance of continuous monitoring and predictive analy
 
 - **Operational Failure Indices**: Features like TWF, PWF, HDF, and RNF provide additional insights into the type of failure, aiding in more precise maintenance strategies.
 
+---
 
 ### 🚀 GitHub Repository
+#
 You can find the complete code and analysis in the GitHub repository:
 
 [GitHub Repository](https://github.com/akashmailar/Tata-Steel-Machine-Failure-Prediction/)
@@ -126,14 +134,16 @@ How to Use This Repository
    
    Open the Jupyter Notebook (`Sample_EDA_Submission_Template.ipynb`) to explore the EDA process and analysis.
 
+---
 
 ### 🤝 Contributing
-
+#
 This is an individual project, but feedback and suggestions are welcome. Feel free to open an issue or submit a pull request.
 
+---
 
 ### 📜 License
-
+#
 This project is licensed under the MIT License.
 
 
